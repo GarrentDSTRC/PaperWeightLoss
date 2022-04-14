@@ -6,7 +6,7 @@
 简化为控制台直接翻译输出
 
 ### Fork And Edit
-https://github.com/2892211452/PaperWeightLoss.git
+Link: https://github.com/2892211452/PaperWeightLoss.git
 
 ### 备注
 .idea是pycharm自动生成的 不用管
